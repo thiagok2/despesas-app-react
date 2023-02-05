@@ -1,0 +1,13 @@
+1. Criar projeto
+  npm init
+2. Instalar json-server
+  npm install json-server
+3. configurar start 
+  json-server --watch db.json --port 3001
+4. executar projeto
+  npm start
+
+
+  Documentação json-server
+    https://github.com/typicode/json-server
+    https://www.fabricadecodigo.com/json-server/
